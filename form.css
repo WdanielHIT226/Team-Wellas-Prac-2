@@ -1,0 +1,47 @@
+h1{
+	width:600px;
+	line-height:43px;
+	margin: 50px auto 20px;
+	font-size:35px;
+	color:#084B86;
+	text-align:center;
+	
+	border-radius:3px;	
+}
+body{
+	background:#EBFAF9;
+	font-size:20px;
+	
+}
+form {
+	margin: 0 auto;
+	width: 700px;
+	padding: 1em;
+	border-radius: 1em;
+	border: 3px solid #0D4780;	
+}
+
+form div + div {
+	margin-top: 1em;
+	padding-top: 10px;
+		
+}
+
+
+label {
+  
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+  height:60px;
+  
+}
+
+input{
+ 
+	width: 400px;
+	box-sizing: border-box;
+	border: 1px solid #0F0D4D;
+	height:40px;
+}
+
